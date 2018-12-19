@@ -16,6 +16,8 @@ public class GitTesting {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Not so world");
+        System.out.println("It is very different");
     }
     
 }
